@@ -1,0 +1,2 @@
+[Mon Jul 08 16:49:13.134039 2019] [php7:warn] [pid 8452:tid 1912] [client 127.0.0.1:56262] PHP Warning:  require_once(C:\\xampp\\php\\pear): failed to open stream: Permission denied in C:\\xampp\\htdocs\\webpizza\\public\\index.php on line 8
+[Mon Jul 08 16:49:13.135034 2019] [php7:error] [pid 8452:tid 1912] [client 127.0.0.1:56262] PHP Fatal error:  require_once(): Failed opening required '' (include_path='C:\\xampp\\php\\PEAR') in C:\\xampp\\htdocs\\webpizza\\public\\index.php on line 8
