@@ -1,0 +1,1 @@
+Le répertoire "utils" contient les diverses fonctionnalitées de l'appli
